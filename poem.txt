@@ -5,8 +5,11 @@ Pink
 Orange
 Blue
 Yellow
+Indigo
 Unicorn
 Green
 Red
 These are the colors of the rainbow.
+
 And the Ponies
+
