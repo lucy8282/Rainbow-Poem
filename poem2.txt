@@ -1,0 +1,4 @@
+Roses are blue
+Violets are red
+Colors are reversed
+From how they are read
